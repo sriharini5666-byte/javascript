@@ -1,4 +1,4 @@
-let name = "Sri Harini";
+let name = "Sri";
 let age = 19;
 
 console.log(name);
